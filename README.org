@@ -1,10 +1,10 @@
 * Fall 2022 - Lab 02
 
-* Last name:
+* Last name: Cheema
 
-* First name:
+* First name: Muhammed 
 
-* GitHub username:
+* GitHub username: MuhammedACheema
 
 * Notes:
 
